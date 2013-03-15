@@ -2,6 +2,7 @@
 <title>Alan Moy's Git Achievements</title>
 <description></description>
 <link></link>
+<item><title>Gardner (Level 4)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
 <item><title>Apprentice Gardner (Level 3)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
 <item><title>Apprentice Gardner (Level 2)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
 <item><title>Apprentice Gardner (Level 1)</title><description>Shows the commit ancestry graph with git show-branch</description></item>
